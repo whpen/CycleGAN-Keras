@@ -6,6 +6,8 @@ The Keras impletation of the CycleGAN.
 
 ## Example
 
+Normal picture transfers to Van Gogh style picture
+
 ![Sample_0](https://github.com/whpen/CycleGAN-Keras/blob/master/assets/0.png)
 ![Sample_1](https://github.com/whpen/CycleGAN-Keras/blob/master/assets/1.png)
 ![Sample_2](https://github.com/whpen/CycleGAN-Keras/blob/master/assets/2.png)
