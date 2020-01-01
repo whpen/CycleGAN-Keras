@@ -19,6 +19,9 @@ Tensorflow:1.14.0
 
 Keras:2.2.5
 
+## Training dataset
+
+[Training dataset](https://people.eecs.berkeley.edu/~taesung_park/CycleGAN/datasets/)
 
 
 ## Note for the code
